@@ -33,12 +33,12 @@
                 }
             }
         }
-        $array = array(
+        $data = array(
             "nome" => "julio",
             "idade" => 09,
             "sobrenome" => "cesar"
         );
-        $data = array('total_stud' => 500);
+        //$data = array('total_stud' => 500);
         
         $xml_data = new SimpleXMLElement('<data/>');
         
